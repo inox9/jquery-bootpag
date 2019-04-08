@@ -2,6 +2,7 @@ bootpag - dynamic pagination
 ============================
 
 This jQuery plugin helps you create dynamic pagination with [Bootstrap](http://getbootstrap.com/) or in any other html pages.
+Modified by me for use in Bootstrap 4 with its new classes for "li" and "a" elements.
 
 # Example
 
